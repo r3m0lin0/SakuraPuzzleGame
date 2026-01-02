@@ -1,5 +1,3 @@
-# SakuraPuzzleGame
-Puzzle Game  using HTML CSS JavaScript
 # Puzzle Game
 
 An interactive drag-and-drop puzzle game featuring beautiful cherry blossom artwork. Challenge yourself to arrange 25 scrambled pieces and complete the puzzle in the fewest moves possible!
