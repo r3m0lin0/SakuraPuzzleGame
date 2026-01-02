@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Puzzle Game</title>
+    <link rel="stylesheet" href="Puzzle.css">
+    <script src="Puzzle.js"></script>
+</head>
+<body>
+ <h1> Sakura Puzzle </h1>
+ <br>
+ <div id="board"></div>
+ <h2> Turns: <span id="turns"> 0 </span></h2>
+ <div id="pieces"></div>
+    </div>
+</div>
+<div id="victoryModal" class="modal">
+    <div class="modal-content">
+        <h2>You Win!</h2>
+        <p>Congratulations! You completed the puzzle in <span id="finalTurns"></span> turns.</p>
+        <button onclick="closeModal()" class="play-again-btn">Play Again</button>
+    </div>
+</div>
+</body>
+</html>
