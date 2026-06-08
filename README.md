@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Micaela Videla Melo**
 
-- GitHub: [@micaelavidela](https://github.com/micaelavidela)
+- GitHub: [@micaelavidela](https://github.com/r3m0lin0)
 - LinkedIn: [Micaela Videla](https://www.linkedin.com/in/micaela-videlamelo/) 
 
 ---
